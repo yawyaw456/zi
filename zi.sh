@@ -1,7 +1,7 @@
 cat > zi.sh <<'BASH'
 #!/bin/bash
 # ZIVPN UDP + Tailwind Web Panel (UI tweaks)
-# Script By: JueHtet
+# Script By: YawLawt
 
 set -euo pipefail
 
@@ -259,7 +259,7 @@ function closeNotice(id){ const el=document.getElementById(id); if(el) el.remove
 
 <!-- Floating buttons -->
 <div class="fab">
-  <a href="https://t.me/Pussy1990" target="_blank" rel="noopener" class="bg-sky-600 hover:bg-sky-500 text-white" title="Telegram">
+  <a href="https://t.me/aungaung78" target="_blank" rel="noopener" class="bg-sky-600 hover:bg-sky-500 text-white" title="Telegram">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M9.04 15.47l-.39 5.49c.56 0 .8-.24 1.09-.53l2.62-2.52 5.43 3.97c1 .55 1.71.26 1.98-.93l3.6-16.85c.32-1.5-.54-2.09-1.52-1.73L1.16 9.64c-1.46.57-1.44 1.39-.25 1.76l5.34 1.66L19.36 6.1c.62-.41 1.18-.18.72.23"/></svg>
   </a>
   <a href="/logout" class="bg-slate-700 hover:bg-slate-600 text-white" title="Logout">
